@@ -32,7 +32,7 @@ namespace UTILITY
 
     private:
 
-        map<char, ArgumentMarshaler> argPaser;
+        //map<char, ArgumentMarshaler> argPaser;
 
         void parseSchema();
         void parseElement();
